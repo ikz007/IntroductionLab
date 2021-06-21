@@ -17,25 +17,27 @@
     {
       "id": 1,
       "body": "random comment",
-      "postId": 1
+      "postId": 1,
+      "profileID": 1
     },
     {
       "id": 2,
       "body": "second comment",
-      "postId": 1
+      "postId": 1,
+      "profileID": 1
     }
   ],
   "profiles": [
     { 
       "id": 1,
-      "name": "ikz007",
-      "postId": [1,2,3]
+      "name": "ikz007"
     }
   ],
   "rates": [
     {
       "id": 1,
       "commentId": 1,
+  	  "rate": 5,
       "profileId": 1
     }
   ]
