@@ -31,5 +31,12 @@
       "name": "ikz007",
       "postId": [1,2,3]
     }
+  ],
+  "rates": [
+    {
+      "id": 1,
+      "commentId": 1,
+      "profileId": 1
+    }
   ]
 }
