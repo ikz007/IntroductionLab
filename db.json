@@ -25,8 +25,10 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "ikz007",
-    "postId": 1
-  }
+  "profiles": [
+    { 
+      "name": "ikz007",
+      "postId": 1
+    }
+  ]
 }
