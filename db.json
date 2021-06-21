@@ -27,8 +27,9 @@
   ],
   "profiles": [
     { 
+      "id": 1,
       "name": "ikz007",
-      "postId": 1
+      "postId": [1,2,3]
     }
   ]
 }
